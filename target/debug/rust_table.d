@@ -1,0 +1,1 @@
+/Users/hejian/Desktop/work_project/rust_project/rust_table/rust_project/target/debug/rust_table: /Users/hejian/Desktop/work_project/rust_project/rust_table/rust_project/src/ins.rs /Users/hejian/Desktop/work_project/rust_project/rust_table/rust_project/src/main.rs
